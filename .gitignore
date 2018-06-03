@@ -1,1 +1,8 @@
-.idea
+.idea/
+.idea/inspectionProfiles
+.idea/misc.xml
+.idea/modules.xml
+.idea/test-site.iml
+.idea/vcs.xml
+.idea/Websites.iml
+.idea/workspace.xml
