@@ -5,6 +5,7 @@
 body {
     margin: 0;
     font-family: Arial;
+    background: linear-gradient(to right,#F96A53, yellow);
 }
 
 .topnav {
@@ -129,11 +130,16 @@ textarea {
 #mySubmit { margin-left: 12em;}
 #wrapper{
 
+
+
+
+
+}
+#wrapper main{
     width: 80%;
     margin-right: auto;
     margin-left: auto;
-    background-color: #F0F0F0;
     min-width: 700px;
-
+    background-color: #F0F0F0;
 }
 form h2 { margin-left: 7em; }
