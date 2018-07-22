@@ -115,6 +115,10 @@ body {
         margin-right: auto;
         width: 50%;
     }
+    #wrapper main{
+        display: block;
+        
+    }
 }
 
 label {
@@ -142,11 +146,11 @@ textarea {
 
 }
 #wrapper main{
-    width: 80%;
+
     height: auto;
     margin-right: auto;
     margin-left: auto;
-    min-width: 600px;
+
     background-color: #F0F0F0;
 }
 .mainParagraph{
