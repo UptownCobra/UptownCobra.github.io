@@ -1,4 +1,11 @@
-body {margin:0;font-family:Arial}
+* {
+    box-sizing: border-box;
+
+}
+body {
+    margin: 0;
+    font-family: Arial;
+}
 
 .topnav {
     overflow: hidden;
@@ -16,7 +23,7 @@ body {margin:0;font-family:Arial}
 }
 
 .active {
-    background-color: #4CAF50;
+    background-color: #F96A53;
     color: white;
 }
 
@@ -102,3 +109,31 @@ body {margin:0;font-family:Arial}
         text-align: left;
     }
 }
+
+label {
+    float:left;
+    text-align: right;
+    width: 8em;
+    padding-right: 1em;
+}
+
+input {
+    display: block;
+    margin-bottom: 1em;
+}
+
+textarea {
+    display: block;
+    margin-bottom: 1em;
+}
+#mySubmit { margin-left: 12em;}
+#wrapper{
+
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #F0F0F0;
+    min-width: 700px;
+
+}
+form h2 { margin-left: 7em; }

@@ -42,7 +42,7 @@
         </div>
         <script>
             function myFunction() {
-                x = document.getElementById("myTopnav");
+                var x = document.getElementById("myTopnav");
                 if (x.className === "topnav") {
                     x.className += " responsive";
                 } else {
@@ -54,41 +54,15 @@
 
     </nav>
 
-<main>
-    <script>
-        function validateForm() {
-            if ((document.forms[0].userName.value == "") && (document.forms[0].email.value == "")) {
-                alert ("Name field Cannot be empty");
-                alert ("Email field Cannot be empty");
-                return false;
-            }
-            if (document.forms[0].userName.value == "") {
-                alert ("Name field Cannot be empty");
-                return false;
-            }
-            else if (document.forms[0].email.value == "") {
-                alert ("Email field Cannot be empty");
-                return false;
-            }
-            $name = document.forms[0].userName.value;
-            $email = document.forms[0].email.value;
-            $comment = document.forms[0].myComment.value
-            alert("Name: " + $name + "\nEmail: " + $email + "\nComment: " + $comment + "\nHave been submitted. We will be in contact soon." );
-            return true;
-        }
-    </script>
-    <form method="post"
-          onsubmit="return validateForm()">
-<h2>Contact us</h2>
-        <label for="userName">Name: </label><input type="text" name="userName" id="userName">
-        <br>
-        <label for="email">E-Mail Address: </label>
-        <input type="text" name="email" id="email"><br>
-        <label for="myComment">Comment: </label>
-        <textarea name="myComments" id="myComment" rows="2" cols="20"></textarea>
-        <input type="submit" value="Submit" id="mySubmit">
-    </form>
-</main>
+    <main>
+        <h2>Contact us</h2>
+        <form action="http://webdevbasics.net/scripts/fishcreek.php" method="post">
+            <label for="wrapper">Name:</label><input type="text" name="myName">
+            <label for="wrapper">E-Mail:</label><input type="text" name="myEmail">
+            <label for="wrapper">Comments:</label><textarea name="myComments" rows="2" cols="20"></textarea>
+            <button id="mySubmit">Send Now</button>
+        </form>
+    </main>
 
 </div>
 
