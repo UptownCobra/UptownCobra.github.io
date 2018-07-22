@@ -109,6 +109,12 @@ body {
         width: 100%;
         text-align: left;
     }
+    .imgFloatLeft{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
 }
 
 label {
@@ -137,9 +143,37 @@ textarea {
 }
 #wrapper main{
     width: 80%;
+    height: auto;
     margin-right: auto;
     margin-left: auto;
-    min-width: 700px;
+    min-width: 600px;
     background-color: #F0F0F0;
 }
+.mainParagraph{
+    padding-left: 2em;
+    padding-right: 2em;
+}
+.indent {margin-left:40px;}
+#indexpage a {
+    text-decoration: none;
+}
+#indexpage ul {
+    float:left;
+    text-wrap: normal;
+
+
+}
+.imgFloatLeft {
+padding-left:5%;
+    max-height: 206px;
+    max-width: 300px;
+
+}
 form h2 { margin-left: 7em; }
+main h1 {text-align: center;  }
+footer {
+    padding: 1em;
+    font-size: .70em;
+    font-style: italic;
+    text-align: center;
+}
