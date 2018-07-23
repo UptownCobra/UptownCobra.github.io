@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117debfd-c46c-48d9-beb0-3273f1adf660" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learntobake/About.html" afterPath="$PROJECT_DIR$/learntobake/About.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learntobake/CSS/howToBake.css" afterPath="$PROJECT_DIR$/learntobake/CSS/howToBake.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learntobake/Contact.html" afterPath="$PROJECT_DIR$/learntobake/Contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learntobake/Leaning/Dry_Ingredients/dryIngredients.html" afterPath="$PROJECT_DIR$/learntobake/Leaning/Dry_Ingredients/dryIngredients.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learntobake/Leaning/Wet_Ingredients/wetIngredients.html" afterPath="$PROJECT_DIR$/learntobake/Leaning/Wet_Ingredients/wetIngredients.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learntobake/Recipes/Bread/Bread.html" afterPath="$PROJECT_DIR$/learntobake/Recipes/Bread/Bread.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learntobake/Recipes/Cake/Cake.html" afterPath="$PROJECT_DIR$/learntobake/Recipes/Cake/Cake.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learntobake/Recipes/Pastry/Pastries.html" afterPath="$PROJECT_DIR$/learntobake/Recipes/Pastry/Pastries.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learntobake/Recipes/Recipes.html" afterPath="$PROJECT_DIR$/learntobake/Recipes/Recipes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learntobake/index.html" afterPath="$PROJECT_DIR$/learntobake/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,6 +60,42 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Bread.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learntobake/Recipes/Bread/Bread.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="776">
+              <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cake.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learntobake/Recipes/Cake/Cake.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="776">
+              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pastries.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learntobake/Recipes/Pastry/Pastries.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="776">
+              <caret line="61" column="11" lean-forward="false" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+              <folding>
+                <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learntobake/Contact.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,40 +110,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fishcreek.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fishcreek11/fishcreek.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="659">
-              <caret line="61" column="30" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="61" selection-end-column="30" />
-              <folding>
-                <element signature="e#396#531#0" expanded="false" />
-                <element signature="e#536#659#0" expanded="false" />
-                <element signature="e#667#696#0" expanded="false" />
-                <element signature="e#704#734#0" expanded="false" />
-                <element signature="e#832#936#0" expanded="false" />
-                <element signature="e#1096#1117#0" expanded="false" />
-                <element signature="e#1124#1257#0" expanded="false" />
-                <element signature="e#1265#1303#0" expanded="false" />
-                <element signature="e#1443#1538#0" expanded="false" />
-                <element signature="e#1596#2319#0" expanded="false" />
-                <element signature="e#2321#2860#0" expanded="false" />
-                <element signature="e#2914#3035#0" expanded="false" />
-                <element signature="e#3040#3132#0" expanded="false" />
-                <element signature="e#3137#3229#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Recipes.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Recipes.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learntobake/Recipes/Recipes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="61" column="3" lean-forward="false" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="3" />
+            <state relative-caret-position="629">
+              <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding>
-                <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -116,18 +125,8 @@
       <file leaf-file-name="howToBake.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learntobake/CSS/howToBake.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="759">
-              <caret line="193" column="22" lean-forward="true" selection-start-line="193" selection-start-column="22" selection-end-line="193" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fishcreek11/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="50" lean-forward="true" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="108" />
+            <state relative-caret-position="266">
+              <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -137,21 +136,11 @@
         <entry file="file://$PROJECT_DIR$/learntobake/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="674">
-              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="76" selection-end-column="17" />
+              <caret line="73" column="2" lean-forward="false" selection-start-line="73" selection-start-column="2" selection-end-line="76" selection-end-column="17" />
               <folding>
                 <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fishcreek11/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="13" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="41" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -205,19 +194,19 @@
         <option value="$PROJECT_DIR$/learntobake/Leaning/Wet_Ingredients/howToUseExtracts.html" />
         <option value="$PROJECT_DIR$/learntobake/Leaning/Dry_Ingredients/allAboutFlour.html" />
         <option value="$PROJECT_DIR$/learntobake/Leaning/Dry_Ingredients/whichLeavenerShouldIUse.html" />
-        <option value="$PROJECT_DIR$/learntobake/Recipes/Bread/Bread.html" />
-        <option value="$PROJECT_DIR$/learntobake/Recipes/Cake/Cake.html" />
-        <option value="$PROJECT_DIR$/learntobake/Recipes/Pastry/Pastries.html" />
         <option value="$PROJECT_DIR$/fishcreek11/fishcreek.css" />
         <option value="$PROJECT_DIR$/fishcreek11/askvet.html" />
         <option value="$PROJECT_DIR$/learntobake/ContactResponce.html" />
-        <option value="$PROJECT_DIR$/learntobake/index.html" />
         <option value="$PROJECT_DIR$/learntobake/Contact.html" />
         <option value="$PROJECT_DIR$/learntobake/About.html" />
         <option value="$PROJECT_DIR$/learntobake/Leaning/Dry_Ingredients/dryIngredients.html" />
         <option value="$PROJECT_DIR$/learntobake/Leaning/Wet_Ingredients/wetIngredients.html" />
-        <option value="$PROJECT_DIR$/learntobake/CSS/howToBake.css" />
+        <option value="$PROJECT_DIR$/learntobake/index.html" />
         <option value="$PROJECT_DIR$/learntobake/Recipes/Recipes.html" />
+        <option value="$PROJECT_DIR$/learntobake/CSS/howToBake.css" />
+        <option value="$PROJECT_DIR$/learntobake/Recipes/Pastry/Pastries.html" />
+        <option value="$PROJECT_DIR$/learntobake/Recipes/Cake/Cake.html" />
+        <option value="$PROJECT_DIR$/learntobake/Recipes/Bread/Bread.html" />
       </list>
     </option>
   </component>
@@ -305,14 +294,28 @@
               <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="learntobake" type="462c0819:PsiDirectoryNode" />
-              <item name="Leaning" type="462c0819:PsiDirectoryNode" />
-              <item name="Wet_Ingredients" type="462c0819:PsiDirectoryNode" />
+              <item name="Recipes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="learntobake" type="462c0819:PsiDirectoryNode" />
               <item name="Recipes" type="462c0819:PsiDirectoryNode" />
+              <item name="Bread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="learntobake" type="462c0819:PsiDirectoryNode" />
+              <item name="Recipes" type="462c0819:PsiDirectoryNode" />
+              <item name="Cake" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="learntobake" type="462c0819:PsiDirectoryNode" />
+              <item name="Recipes" type="462c0819:PsiDirectoryNode" />
+              <item name="Pastry" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -384,7 +387,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52172000" />
+    <option name="totallyTimeSpent" value="54662000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -621,39 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learntobake/Recipes/Cake/Cake.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learntobake/Recipes/Pastry/Pastries.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learntobake/Recipes/Bread/Bread.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding>
-            <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fishcreek7/askvet.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -779,17 +749,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learntobake/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="76" selection-end-column="17" />
-          <folding>
-            <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learntobake/About.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -797,18 +756,6 @@
           <folding>
             <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learntobake/Contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="106" selection-end-column="21" />
-          <folding>
-            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#script#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -835,22 +782,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learntobake/CSS/howToBake.css">
+    <entry file="file://$PROJECT_DIR$/learntobake/Contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="193" column="22" lean-forward="true" selection-start-line="193" selection-start-column="22" selection-end-line="193" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="612">
+          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="106" selection-end-column="21" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learntobake/Recipes/Recipes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="61" column="3" lean-forward="false" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="3" />
+        <state relative-caret-position="629">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding>
-            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learntobake/CSS/howToBake.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learntobake/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="73" column="2" lean-forward="false" selection-start-line="73" selection-start-column="2" selection-end-line="76" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learntobake/Recipes/Pastry/Pastries.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="61" column="11" lean-forward="false" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learntobake/Recipes/Cake/Cake.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learntobake/Recipes/Bread/Bread.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
