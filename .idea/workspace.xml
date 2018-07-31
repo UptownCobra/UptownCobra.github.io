@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117debfd-c46c-48d9-beb0-3273f1adf660" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learntobake/Leaning/Wet_Ingredients/wetIngredients.html" afterPath="$PROJECT_DIR$/learntobake/Leaning/Wet_Ingredients/wetIngredients.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaGames/Pong.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,19 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="About.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learntobake/About.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="63" column="124" lean-forward="false" selection-start-line="63" selection-start-column="124" selection-end-line="63" selection-end-column="124" />
-              <folding>
-                <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="dryIngredients.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learntobake/Leaning/Dry_Ingredients/dryIngredients.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wetIngredients.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wetIngredients.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learntobake/Leaning/Wet_Ingredients/wetIngredients.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="797">
-              <caret line="63" column="13" lean-forward="false" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+            <state relative-caret-position="680">
+              <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -55,11 +43,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Pong.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaGames/Pong.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Bread.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learntobake/Recipes/Bread/Bread.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="742">
-              <caret line="59" column="13" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="59" selection-end-column="13" />
+            <state relative-caret-position="1003">
+              <caret line="59" column="13" lean-forward="false" selection-start-line="56" selection-start-column="4" selection-end-line="59" selection-end-column="13" />
               <folding>
                 <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -120,7 +118,7 @@
       <file leaf-file-name="howToBake.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learntobake/CSS/howToBake.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="658">
+            <state relative-caret-position="3400">
               <caret line="200" column="13" lean-forward="false" selection-start-line="200" selection-start-column="13" selection-end-line="200" selection-end-column="13" />
               <folding />
             </state>
@@ -202,6 +200,7 @@
         <option value="$PROJECT_DIR$/learntobake/Recipes/Bread/Bread.html" />
         <option value="$PROJECT_DIR$/learntobake/CSS/howToBake.css" />
         <option value="$PROJECT_DIR$/learntobake/Leaning/Wet_Ingredients/wetIngredients.html" />
+        <option value="$PROJECT_DIR$/JavaGames/Pong.html" />
       </list>
     </option>
   </component>
@@ -215,7 +214,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="339" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -237,7 +236,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -246,83 +244,11 @@
               <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter14" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="fishcreek11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="fishcreek11" type="462c0819:PsiDirectoryNode" />
-              <item name="fishcreek" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="learntobake" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="learntobake" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="learntobake" type="462c0819:PsiDirectoryNode" />
-              <item name="Images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="learntobake" type="462c0819:PsiDirectoryNode" />
-              <item name="Leaning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="learntobake" type="462c0819:PsiDirectoryNode" />
-              <item name="Leaning" type="462c0819:PsiDirectoryNode" />
-              <item name="Wet_Ingredients" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="learntobake" type="462c0819:PsiDirectoryNode" />
-              <item name="Recipes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="learntobake" type="462c0819:PsiDirectoryNode" />
-              <item name="Recipes" type="462c0819:PsiDirectoryNode" />
-              <item name="Bread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="learntobake" type="462c0819:PsiDirectoryNode" />
-              <item name="Recipes" type="462c0819:PsiDirectoryNode" />
-              <item name="Cake" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="learntobake" type="462c0819:PsiDirectoryNode" />
-              <item name="Recipes" type="462c0819:PsiDirectoryNode" />
-              <item name="Pastry" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -385,15 +311,18 @@
       <workItem from="1531357434387" duration="3665000" />
       <workItem from="1531584323475" duration="441000" />
       <workItem from="1532284048157" duration="2615000" />
-      <workItem from="1532360470402" duration="802000" />
+      <workItem from="1532360470402" duration="1374000" />
+      <workItem from="1532739636596" duration="8716000" />
+      <workItem from="1532984931854" duration="918000" />
+      <workItem from="1533051260254" duration="1489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55715000" />
+    <option name="totallyTimeSpent" value="67410000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="339" y="0" width="974" height="1047" extended-state="1" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2400835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -427,13 +356,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/secondPage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -711,10 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="63" column="124" lean-forward="false" selection-start-line="63" selection-start-column="124" selection-end-line="63" selection-end-column="124" />
-          <folding>
-            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,18 +700,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learntobake/CSS/howToBake.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="200" column="13" lean-forward="false" selection-start-line="200" selection-start-column="13" selection-end-line="200" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learntobake/Recipes/Bread/Bread.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="742">
-          <caret line="59" column="13" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="59" selection-end-column="13" />
+        <state relative-caret-position="1003">
+          <caret line="59" column="13" lean-forward="false" selection-start-line="56" selection-start-column="4" selection-end-line="59" selection-end-column="13" />
           <folding>
             <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -802,12 +712,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learntobake/Leaning/Wet_Ingredients/wetIngredients.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="797">
-          <caret line="63" column="13" lean-forward="false" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+        <state relative-caret-position="680">
+          <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#a#3;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learntobake/CSS/howToBake.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3400">
+          <caret line="200" column="13" lean-forward="false" selection-start-line="200" selection-start-column="13" selection-end-line="200" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaGames/Pong.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>

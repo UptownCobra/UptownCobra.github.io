@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pong</title>
+</head>
+<style>
+    body {
+       position: static;
+    }
+    canvas {
+        margin: 10%;
+
+        background-color: black;
+        width: 80%;
+        height: auto;
+    }
+</style>
+<body>
+<canvas id="gameScreen"></canvas>
+<script>
+    var canvas;
+    var canvasContext;
+    var paddleWidth, paddleHeight;
+    var paddle1X, paddle1Y, paddle2X, paddle2Y;
+    var ballX, ballY, ballSize, ballXSpeed, ballYSpeed;
+    window.onload = function() {
+        init();
+        var FPS = 30;
+        //drawStuff();
+        setInterval(moveElements, 1000/FPS);
+    };
+    function init() {
+        canvas = document.getElementById("gameScreen");
+        canvasContext = canvas.getContext("2d");
+        // set Paddle size
+        paddleWidth = canvas.width * .01;
+        paddleHeight = canvas.height *.18;
+        // set paddle starting location
+        paddle1X = 2;
+        paddle2X = canvas.width - 2 - paddleWidth;
+        paddle1Y = canvas.height *.5 - (paddleHeight * .5);
+        paddle2Y = canvas.height *.5 - (paddleHeight * .5);
+        // set initial ball speed and location
+        ballX = 0;//canvas.height/2;
+        ballY = 0;//canvas.width/2;
+        ballSize = 5;
+        ballXSpeed = 5;
+        ballYSpeed = 2;
+    }
+    function drawStuff() {
+        drawRect(paddle1X, paddle1Y, paddleHeight, paddleWidth, 'white');
+        drawRect(paddle2X, paddle2Y, paddleHeight, paddleWidth, 'white');
+        drawRect(ballX, ballY, ballSize, ballSize, 'white');
+    }
+    function drawRect(xCoord, yCoord, height, width, color) {
+        canvasContext.fillStyle = color;
+        canvasContext.fillRect(xCoord, yCoord, width, height);
+    }
+
+    function moveElements() {
+        canvasContext.clearRect(0, 0, canvas.width, canvas.height);
+        moveBall();
+        console.log(ballX);
+        drawStuff();
+    }
+    function moveBall() {
+        ballX += ballXSpeed;
+        ballY += ballYSpeed;
+        bounceBall();
+    }
+    function bounceBall() {
+        if (ballX > (canvas.width - ballSize) || ballX < 0) {
+            ballXSpeed =  -ballXSpeed;
+        }
+        if (ballY > (canvas.height - ballSize) || ballY < 0) {
+            ballYSpeed = -ballYSpeed;
+        }
+    }
+</script>
+</body>
+</html>
