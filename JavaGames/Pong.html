@@ -42,11 +42,20 @@
         paddle1Y = canvas.height *.5 - (paddleHeight * .5);
         paddle2Y = canvas.height *.5 - (paddleHeight * .5);
         // set initial ball speed and location
-        ballX = 0;//canvas.height/2;
-        ballY = 0;//canvas.width/2;
+        ballX = canvas.width/2;
+        ballY = canvas.height/2;
         ballSize = 5;
         ballXSpeed = 5;
-        ballYSpeed = 2;
+        ballYSpeed = 7;
+    }
+    function resetBall() {
+        ballX = canvas.width/2;
+        ballY = canvas.height/2;
+        ballXSpeed = -ballXSpeed;
+        var num = Math.floor(Math.random() * 10);
+        if ((num % 2) === 0) {
+            ballYSpeed = -ballYSpeed;
+        }
     }
     function drawStuff() {
         drawRect(paddle1X, paddle1Y, paddleHeight, paddleWidth, 'white');
@@ -71,12 +80,13 @@
     }
     function bounceBall() {
         if (ballX > (canvas.width - ballSize) || ballX < 0) {
-            ballXSpeed =  -ballXSpeed;
+            resetBall();
         }
         if (ballY > (canvas.height - ballSize) || ballY < 0) {
             ballYSpeed = -ballYSpeed;
         }
     }
+    
 </script>
 </body>
 </html>
