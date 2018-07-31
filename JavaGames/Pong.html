@@ -25,14 +25,16 @@
     var paddle1X, paddle1Y, paddle2X, paddle2Y;
     var ballX, ballY, ballSize, ballXSpeed, ballYSpeed;
     window.onload = function() {
+        canvas = document.getElementById("gameScreen");
+        canvasContext = canvas.getContext("2d");
+        canvas.addEventListener("mousemove",getMousePos, false);
         init();
         var FPS = 30;
         //drawStuff();
         setInterval(moveElements, 1000/FPS);
     };
     function init() {
-        canvas = document.getElementById("gameScreen");
-        canvasContext = canvas.getContext("2d");
+
         // set Paddle size
         paddleWidth = canvas.width * .01;
         paddleHeight = canvas.height *.18;
@@ -46,7 +48,7 @@
         ballY = canvas.height/2;
         ballSize = 5;
         ballXSpeed = 5;
-        ballYSpeed = 7;
+        ballYSpeed = 2;
     }
     function resetBall() {
         ballX = canvas.width/2;
@@ -58,7 +60,7 @@
         }
     }
     function drawStuff() {
-        drawRect(paddle1X, paddle1Y, paddleHeight, paddleWidth, 'white');
+        drawRect(paddle1X, paddle1Y , paddleHeight, paddleWidth, 'white');
         drawRect(paddle2X, paddle2Y, paddleHeight, paddleWidth, 'white');
         drawRect(ballX, ballY, ballSize, ballSize, 'white');
     }
@@ -70,7 +72,8 @@
     function moveElements() {
         canvasContext.clearRect(0, 0, canvas.width, canvas.height);
         moveBall();
-        console.log(ballX);
+        simpleAI();
+        console.log(getMousePos);
         drawStuff();
     }
     function moveBall() {
@@ -79,6 +82,9 @@
         bounceBall();
     }
     function bounceBall() {
+        if (isBallOnPaddle()) {
+            ballXSpeed = -ballXSpeed;
+        }
         if (ballX > (canvas.width - ballSize) || ballX < 0) {
             resetBall();
         }
@@ -86,7 +92,36 @@
             ballYSpeed = -ballYSpeed;
         }
     }
-    
+    function isBallOnPaddle() {
+        if (ballX === paddle1X + paddleWidth) {
+            if (ballY >= paddle1Y && ballY <= (paddle1Y + paddleHeight)) {
+                return true;
+            }
+        }
+        if (ballX === paddle2X - ballSize) {
+            if (ballY >= paddle2Y && ballY <= (paddle2Y + paddleHeight)) {
+                return true;
+            }
+        }
+        else return false;
+    }
+    function simpleAI() {
+        if (ballY < (paddle2Y + (.5 * paddleHeight))) {
+            paddle2Y -= 2;
+        }
+        else if (ballY > (paddle2Y + (.5 * paddleHeight))){
+            paddle2Y += 2;
+        }
+    }
+    function  getMousePos(evt) {
+        var rect = canvas.getBoundingClientRect(), // abs. size of element
+            //scaleX = canvas.width / rect.width,    // relationship bitmap vs. element for X
+            scaleY = canvas.height / rect.height;  // relationship bitmap vs. element for Y
+
+                   // x: (evt.clientX - rect.left) * scaleX,   // scale mouse coordinates after they have
+            paddle1Y = (evt.clientY - rect.top) * scaleY;     // been adjusted to be relative to element
+
+    }
 </script>
 </body>
 </html>
