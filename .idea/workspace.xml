@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117debfd-c46c-48d9-beb0-3273f1adf660" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaGames/Pong.html" afterPath="$PROJECT_DIR$/JavaGames/Pong.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -45,10 +46,10 @@
       <file leaf-file-name="Pong.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JavaGames/Pong.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="733">
-              <caret line="123" column="5" lean-forward="true" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
+            <state relative-caret-position="206">
+              <caret line="54" column="32" lean-forward="true" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
               <folding>
-                <element signature="e#3351#3832#0" expanded="false" />
+                <element signature="e#3588#4069#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -215,9 +216,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+    <option name="x" value="885" />
     <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -315,16 +316,15 @@
       <workItem from="1532360470402" duration="1374000" />
       <workItem from="1532739636596" duration="8716000" />
       <workItem from="1532984931854" duration="918000" />
-      <workItem from="1533051260254" duration="8477000" />
+      <workItem from="1533051260254" duration="9427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74398000" />
+    <option name="totallyTimeSpent" value="75348000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="885" y="0" width="974" height="1040" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2400835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -732,10 +732,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaGames/Pong.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="733">
-          <caret line="123" column="5" lean-forward="true" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
+        <state relative-caret-position="206">
+          <caret line="54" column="32" lean-forward="true" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
           <folding>
-            <element signature="e#3351#3832#0" expanded="false" />
+            <element signature="e#3588#4069#0" expanded="false" />
           </folding>
         </state>
       </provider>

@@ -46,7 +46,7 @@
         // set initial ball speed and location
         ballX = canvas.width/2;
         ballY = canvas.height/2;
-        ballSize = 5;
+        ballSize = 2;
         ballXSpeed = 5;
         ballYSpeed = 2;
     }
@@ -62,13 +62,18 @@
     function drawStuff() {
         drawRect(paddle1X, paddle1Y , paddleHeight, paddleWidth, 'white');
         drawRect(paddle2X, paddle2Y, paddleHeight, paddleWidth, 'white');
-        drawRect(ballX, ballY, ballSize, ballSize, 'white');
+        drawCircle(ballX, ballY, ballSize, 'white');
     }
     function drawRect(xCoord, yCoord, height, width, color) {
         canvasContext.fillStyle = color;
         canvasContext.fillRect(xCoord, yCoord, width, height);
     }
-
+    function drawCircle(xCoord, yCoord, radius, color) {
+        canvasContext.beginPath();
+        canvasContext.arc(xCoord, yCoord, radius, 0, 2 * Math.PI, false);
+        canvasContext.fillStyle = 'color';
+        canvasContext.fill();
+    }
     function moveElements() {
         canvasContext.clearRect(0, 0, canvas.width, canvas.height);
         moveBall();
@@ -113,6 +118,7 @@
             paddle2Y += 2;
         }
     }
+
     function  getMousePos(evt) {
         var rect = canvas.getBoundingClientRect(), // abs. size of element
             //scaleX = canvas.width / rect.width,    // relationship bitmap vs. element for X
