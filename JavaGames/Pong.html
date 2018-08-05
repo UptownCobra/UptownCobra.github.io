@@ -6,33 +6,97 @@
 </head>
 <style>
     body {
-       position: static;
+       position: relative;
+        font-family:  Magneto;
+        background-color: skyblue;
+        max-width: 1200px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    h1 {
+        text-align: center;
+        color: lawngreen;
+        text-shadow: 1px 2px black;
+        font-size: 10em;
+        margin-top: .2em;
+        margin-bottom: .2em;
     }
     canvas {
         margin: 10%;
-
-        background-color: black;
+        margin-top: .3em;
+        margin-bottom: .3em;
+        background-color: lawngreen;
         width: 80%;
         height: auto;
+        border: dashed 3px white;
+        box-shadow: 2px 2px black;
+    }
+    form {
+        width: 80%;
+        margin: 10%;
+        margin-top: .2em;
+        text-align: center;
+
+    }
+    label {
+        width: auto;
+    }
+    input {
+
+        width: 200px;
+    }
+    table {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    tr {
+    }
+    td {
+width: 33%;
     }
 </style>
 <body>
+<h1>PONG!</h1>
+<table>
+<tr>
+<td id="playerName"></td>    <td id="volleyCount"></td>  <td id="computerName"></td>
+</tr>
+    </table>
 <canvas id="gameScreen"></canvas>
+<form id="gameInfo" >
+    <label for="pointsTotal" class="labelID">How many points would you like to play to?: </label><br>
+    <input id="pointsTotal" type="text" name="pointsTotal"><br><br>
+    <label for="name" class="labelID">What is your name?: </label><br>
+    <input id="name" type="text" name="name"><br><br>
+    <input type="button" value="Play Game" id="mySubmit" onclick="playGame()">
+</form>
 <script>
-    var canvas;
-    var canvasContext;
-    var paddleWidth, paddleHeight;
-    var paddle1X, paddle1Y, paddle2X, paddle2Y;
-    var ballX, ballY, ballSize, ballXSpeed, ballYSpeed;
-    window.onload = function() {
+    let canvas;
+    let canvasContext;
+    let paddleWidth, paddleHeight;
+    let paddle1X, paddle1Y, paddle2X, paddle2Y;
+    let ballX, ballY, ballSize, ballXSpeed, ballYSpeed;
+    let volley, player1Score, player2Score;
+    let playerName, maxScore, computerName;
+    let interval;
+    let isPlaying = true;
+    function playGame() {
+        maxScore = document.forms[0].pointsTotal.value;
+        playerName = document.forms[0].name.value;
+        computerName = "Computer";
         canvas = document.getElementById("gameScreen");
         canvasContext = canvas.getContext("2d");
         canvas.addEventListener("mousemove",getMousePos, false);
         init();
-        var FPS = 30;
-        //drawStuff();
-        setInterval(moveElements, 1000/FPS);
-    };
+        let FPS = 30;
+
+        interval = setInterval(moveElements, 1000 / FPS);
+
+
+        console.log("end of function")
+    }
     function init() {
 
         // set Paddle size
@@ -49,12 +113,16 @@
         ballSize = 2;
         ballXSpeed = 5;
         ballYSpeed = 2;
+        volley = 0;
+        player2Score = 0;
+        player1Score = 0;
     }
     function resetBall() {
         ballX = canvas.width/2;
         ballY = canvas.height/2;
         ballXSpeed = -ballXSpeed;
-        var num = Math.floor(Math.random() * 10);
+        ballYSpeed = 2;
+        let num = Math.floor(Math.random() * 10);
         if ((num % 2) === 0) {
             ballYSpeed = -ballYSpeed;
         }
@@ -63,23 +131,34 @@
         drawRect(paddle1X, paddle1Y , paddleHeight, paddleWidth, 'white');
         drawRect(paddle2X, paddle2Y, paddleHeight, paddleWidth, 'white');
         drawCircle(ballX, ballY, ballSize, 'white');
+        drawNet();
+        setUpHeader();
     }
     function drawRect(xCoord, yCoord, height, width, color) {
         canvasContext.fillStyle = color;
         canvasContext.fillRect(xCoord, yCoord, width, height);
     }
+    function drawNet() {
+        let width = 2;
+        let center = (canvas.width/2) - (.5 * width);
+        for (let i = 0; i < canvas.height; i =  i + 10) {
+            drawRect(center, i, 5, width, 'white');
+       }
+    }
     function drawCircle(xCoord, yCoord, radius, color) {
         canvasContext.beginPath();
         canvasContext.arc(xCoord, yCoord, radius, 0, 2 * Math.PI, false);
-        canvasContext.fillStyle = 'color';
+        canvasContext.fillStyle = color;
         canvasContext.fill();
     }
     function moveElements() {
         canvasContext.clearRect(0, 0, canvas.width, canvas.height);
         moveBall();
         simpleAI();
-        console.log(getMousePos);
         drawStuff();
+        if (!isPlaying) {
+            clearInterval(interval);
+        }
     }
     function moveBall() {
         ballX += ballXSpeed;
@@ -89,8 +168,18 @@
     function bounceBall() {
         if (isBallOnPaddle()) {
             ballXSpeed = -ballXSpeed;
+            makeHarder();
+            volley++;
         }
         if (ballX > (canvas.width - ballSize) || ballX < 0) {
+            volley = 0;
+            if (ballX > (canvas.width - ballSize)) {
+                player1Score++;
+            }
+            else {
+                player2Score++;
+            }
+            playerWon();
             resetBall();
         }
         if (ballY > (canvas.height - ballSize) || ballY < 0) {
@@ -103,7 +192,9 @@
                 return true;
             }
         }
-        if (ballX === paddle2X - ballSize) {
+
+        if ( ballX === paddle2X - ballSize + 2) {
+
             if (ballY >= paddle2Y && ballY <= (paddle2Y + paddleHeight)) {
                 return true;
             }
@@ -117,6 +208,7 @@
         else if (ballY > (paddle2Y + (.5 * paddleHeight))){
             paddle2Y += 2;
         }
+
     }
 
     function  getMousePos(evt) {
@@ -127,6 +219,68 @@
                    // x: (evt.clientX - rect.left) * scaleX,   // scale mouse coordinates after they have
             paddle1Y = (evt.clientY - rect.top) * scaleY;     // been adjusted to be relative to element
 
+    }
+
+    function makeHarder() {
+        let paddleYValue;
+        if (ballX >= (canvas.width / 2)) {
+            paddleYValue = paddle2Y;
+        } else {
+            paddleYValue = paddle1Y;
+        }
+        let mid = paddleYValue + (paddleHeight/2);
+        let thirds = (paddleHeight/2)/3;
+
+        if (ballY < mid) {
+            if (ballY > mid - thirds) {
+                ballYSpeed = -1;
+            }
+            else if (ballY > mid - (thirds * 2)) {
+                ballYSpeed = -2;
+            }
+            else if (ballY > mid - (thirds * 3)) {
+                ballYSpeed = -4;
+            }
+        }
+        else if (ballY > mid) {
+                if (ballY < mid + thirds) {
+                    ballYSpeed = 1;
+                }
+                else if (ballY < mid + (thirds * 2)) {
+                    ballYSpeed = 2;
+                }
+                else if (ballY < mid + (thirds * 3)) {
+                    ballYSpeed = 4;
+                }
+        }
+    }
+
+    function setUpHeader() {
+        if (playerName === "") {
+            document.getElementById('playerName').innerText = "Player 1" + ": " + player1Score;
+        }
+        else {
+            document.getElementById('playerName').innerText = playerName + ": " + player1Score;
+        }
+        let volleyNum = String(volley);
+        document.getElementById('volleyCount').innerText = "Volley: " + volleyNum;
+        document.getElementById('computerName').innerText = computerName + ": " + player2Score;
+    }
+    function playerWon() {
+        if (player1Score == maxScore || player2Score == maxScore) {
+            isPlaying = false;
+            canvasContext.clearRect(0, 0, canvas.width, canvas.height);
+
+            canvasContext.font="12px Georgia";
+            if (player1Score > player2Score) {
+                canvasContext.fillText(playerName + " has won the Game!",0, canvas.height/2)
+            }
+            else {
+                canvasContext.fillText(computerName + " has won the Game!",0, canvas.height/2)
+            }
+            canvasContext.fillText("Click the Play Game button to play again",0, canvas.height/2 + 30);
+
+        }
     }
 </script>
 </body>
