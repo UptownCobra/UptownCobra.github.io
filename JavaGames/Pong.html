@@ -81,8 +81,9 @@ width: 33%;
     let volley, player1Score, player2Score;
     let playerName, maxScore, computerName;
     let interval;
-    let isPlaying = true;
+    let isPlaying;
     function playGame() {
+        isPlaying = true;
         maxScore = document.forms[0].pointsTotal.value;
         playerName = document.forms[0].name.value;
         computerName = "Computer";
@@ -116,6 +117,7 @@ width: 33%;
         volley = 0;
         player2Score = 0;
         player1Score = 0;
+
     }
     function resetBall() {
         ballX = canvas.width/2;
