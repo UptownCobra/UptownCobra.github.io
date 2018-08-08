@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Paint</title>
+</head>
+
+<style>
+    body {
+        background-color: skyblue;
+        font-family:  Magneto;
+
+    }
+    h1 {
+        text-align: center;
+        color: lawngreen;
+        text-shadow: 1px 2px black;
+        font-size: 10em;
+        margin-top: .2em;
+        margin-bottom: .2em;
+
+    }
+    #container {
+        width: 600px;
+        height: 600px;
+        margin-right: auto;
+        margin-left: auto;
+        border: solid black 1px;
+        background-color: white;
+    }
+    .box {
+        display: inline-block;
+        height: 9.375px;
+        width: 9.375px;
+        font-size: 0;
+        float: left;
+    }
+
+    #selectors {
+        margin-left: auto;
+        margin-right: auto;
+        width: fit-content;
+    }
+    #resetButton {
+        margin-left: auto;
+        margin-right: auto;
+        width: fit-content;
+    }
+
+</style>
+<body>
+<h1>Paint</h1>
+    <div id="container"></div>
+    <div id="selectors">
+        <form>
+        <input type="color" id="brushColor" name="brushColor" value="#000000"/>
+        <label for="brushColor">Brush Color</label>
+        <input type="button" onclick="setColor()"  value="Set Color"/>
+        </form>
+    </div>
+<div id="resetButton">
+    <button  onclick="resetDiv()" name="Reset">Reset</button>
+</div>
+</body>
+<script>
+    let p = 0;
+    let color;
+
+    window.onload = function() {
+        let container = document.querySelector('#container');
+        setColor();
+        let isDown = false;
+        for (i = 0; i < 64; i++) {
+            for (j = 0; j < 64; j++) {
+                p++;
+                let content = document.createElement('div');
+                content.classList.add('box');
+                content.addEventListener('mousedown',  function() {
+                    isDown = true;
+                    content.style.backgroundColor = color;
+                    console.log(isDown);
+                }, false);
+                content.addEventListener('mouseup', function() {
+                    isDown = false;
+                    console.log(isDown);
+                }, false);
+                content.addEventListener('mouseover', function() {
+                    if (isDown) {
+                        content.style.backgroundColor = color;
+                        console.log("Change background Color");
+                    }
+                }, false);
+                container.appendChild(content);
+
+            }
+        }
+    };
+    function resetDiv() {
+       let box = document.querySelectorAll('.box');
+        for (let i = 0; i < box.length; i++) {
+            box[i].style.backgroundColor = 'white';
+        }
+        // console.log("changed color")
+    }
+    function setColor() {
+        color = document.forms[0].brushColor.value;
+        console.log(color);
+    }
+
+
+</script>
+</html>
