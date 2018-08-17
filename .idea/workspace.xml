@@ -20,9 +20,9 @@
         <entry file="file://$PROJECT_DIR$/JavaGames/Pong.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="852">
-              <caret line="66" column="8" lean-forward="false" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+              <caret line="67" column="27" lean-forward="false" selection-start-line="67" selection-start-column="27" selection-end-line="67" selection-end-column="27" />
               <folding>
-                <element signature="e#6811#7759#0" expanded="false" />
+                <marker date="1534484924479" expanded="false" signature="6853:7801" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -345,7 +345,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148007000" />
+    <option name="totallyTimeSpent" value="148022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -750,9 +750,9 @@
     <entry file="file://$PROJECT_DIR$/JavaGames/Pong.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="852">
-          <caret line="66" column="8" lean-forward="false" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+          <caret line="67" column="27" lean-forward="false" selection-start-line="67" selection-start-column="27" selection-end-line="67" selection-end-column="27" />
           <folding>
-            <element signature="e#6811#7759#0" expanded="false" />
+            <marker date="1534484924479" expanded="false" signature="6853:7801" ph="{...}" />
           </folding>
         </state>
       </provider>
