@@ -12,7 +12,7 @@
     #calculatorBody {
         max-width: 800px;
         width: 80%;
-        height: auto;
+        height: 500px;
         margin-right: auto;
         margin-left: auto;
 
@@ -41,6 +41,7 @@
         text-align: right;
         border-left: solid 1px #ccdfcb;
         border-right: solid 1px #ccdfcb;
+        color:white;
     }
     #completeOutput {
         overflow: auto;
@@ -48,6 +49,7 @@
         background-color: #414141;
         border: solid 1px #ccdfcb;
         text-align: right;
+        color: white;
     }
     #equals {
         background-color: #056571;
@@ -60,6 +62,7 @@
         #calculatorBody {
             width: auto;
             margin: 0;
+            min-width: 350px;
         }
     }
 </style>
@@ -114,12 +117,12 @@ let fullArray = document.querySelector("#completeOutput");
     }
     function appendToCalcArray(sign) {
 
-        if (input !== "" && (sign !== "(" && sign !==")")) {
+        if (input !== "" && (sign !== "(" && sign !==")" ) && input != "0") {
             calculationArray.push(input.join(""));
             calculationArray.push(sign);
             fullArray.innerText = calculationArray.join(" ");
             input = [];
-            output.innerText = input.join("");
+            output.innerText = 0;
 
         }
         if (sign === "(" || sign ===  ")") {
@@ -146,7 +149,7 @@ let fullArray = document.querySelector("#completeOutput");
     function equals(arrayToCalculate, isParenths) {
         if (!isParenths)
         {
-            if (input != "") {
+            if (input != "" || input != 0) {
                 calculationArray.push(input.join(""));
                 fullArray.innerText = input.join("");
             }
@@ -157,8 +160,9 @@ let fullArray = document.querySelector("#completeOutput");
 
             }
         }
+        checkParenths();
 
-          while (arrayToCalculate.includes("(")) {
+        while (arrayToCalculate.includes("(")) {
 
             let index = arrayToCalculate.lastIndexOf("(");
             let endIndex = arrayToCalculate.indexOf(")");
@@ -247,6 +251,20 @@ let fullArray = document.querySelector("#completeOutput");
     function power(a, b) {
         return a ** b;
     }
-
+    function checkParenths() {
+        let openParenths = 0;
+        let closeParenths = 0;
+        calculationArray.forEach(function(element) {
+            if (element === "(") {
+                openParenths++;
+            }
+            else if (element === ")") {
+                closeParenths++;
+            }
+        } );
+        for (let i = 1; i <= (openParenths - closeParenths); i++) {
+            calculationArray.push(")");
+        }
+    }
 </script>
 </html>
