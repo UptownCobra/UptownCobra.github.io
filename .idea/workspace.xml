@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117debfd-c46c-48d9-beb0-3273f1adf660" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaGames/Calculator.html" afterPath="$PROJECT_DIR$/JavaGames/Calculator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaGames/Pong.html" afterPath="$PROJECT_DIR$/JavaGames/Pong.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,14 +16,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Pong.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Pong.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JavaGames/Pong.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="852">
+              <caret line="66" column="8" lean-forward="false" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
               <folding>
-                <element signature="e#5931#6412#0" expanded="false" />
-                <element signature="e#6440#7388#0" expanded="false" />
+                <element signature="e#6811#7759#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -39,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Calculator.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Calculator.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaGames/Calculator.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="163" column="0" lean-forward="true" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+            <state relative-caret-position="697">
+              <caret line="56" column="39" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding>
                 <element signature="e#4719#4843#0" expanded="false" />
                 <element signature="e#5077#5202#0" expanded="false" />
@@ -80,7 +79,7 @@
       <file leaf-file-name="easyPaint.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaGames/easyPaint.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
+            <state relative-caret-position="852">
               <caret line="60" column="21" lean-forward="false" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
               <folding />
             </state>
@@ -199,12 +198,12 @@
         <option value="/AngularJS Fragment (Recipes.html:498).js" />
         <option value="$PROJECT_DIR$/learntobake/Recipes/Recipes.html" />
         <option value="$PROJECT_DIR$/learntobake/Contact.html" />
-        <option value="$PROJECT_DIR$/JavaGames/Pong.html" />
         <option value="$PROJECT_DIR$/JavaGames/Testing.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Resume/index.html" />
         <option value="$PROJECT_DIR$/JavaGames/easyPaint.html" />
         <option value="$PROJECT_DIR$/JavaGames/Calculator.html" />
+        <option value="$PROJECT_DIR$/JavaGames/Pong.html" />
       </list>
     </option>
   </component>
@@ -217,9 +216,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="648" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -341,18 +340,18 @@
       <workItem from="1533691753926" duration="8756000" />
       <workItem from="1533873208858" duration="2133000" />
       <workItem from="1534022004869" duration="16550000" />
-      <workItem from="1534466898786" duration="13268000" />
+      <workItem from="1534466898786" duration="14803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146472000" />
+    <option name="totallyTimeSpent" value="148007000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.119791664" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2400835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -716,25 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaGames/Pong.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#5931#6412#0" expanded="false" />
-            <element signature="e#6440#7388#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaGames/easyPaint.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="21" lean-forward="false" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaGames/Testing.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -745,8 +725,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaGames/Calculator.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="163" column="0" lean-forward="true" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+        <state relative-caret-position="697">
+          <caret line="56" column="39" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding>
             <element signature="e#4719#4843#0" expanded="false" />
             <element signature="e#5077#5202#0" expanded="false" />
@@ -755,6 +735,24 @@
             <element signature="e#6217#6458#0" expanded="false" />
             <element signature="e#6506#6750#0" expanded="false" />
             <element signature="e#6928#6979#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaGames/easyPaint.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="852">
+          <caret line="60" column="21" lean-forward="false" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaGames/Pong.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="852">
+          <caret line="66" column="8" lean-forward="false" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+          <folding>
+            <element signature="e#6811#7759#0" expanded="false" />
           </folding>
         </state>
       </provider>
