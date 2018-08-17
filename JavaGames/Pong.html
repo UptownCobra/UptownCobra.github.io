@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>Pong</title>
 </head>
 <style>
@@ -56,6 +58,14 @@
     td {
 width: 33%;
     }
+    @media screen and (max-width: 700px) {
+        canvas {
+            width: 100%;
+            margin-left: 0;
+            margin-right: 0;
+        }
+        
+    }
 </style>
 <body>
 <h1>PONG!</h1>
@@ -90,6 +100,8 @@ width: 33%;
         canvas = document.getElementById("gameScreen");
         canvasContext = canvas.getContext("2d");
         canvas.addEventListener("mousemove",getMousePos, false);
+        canvas.addEventListener("touchstart",startTouch, false);
+        canvas.addEventListener("touchmove",getTouchPos, false);
         init();
         let FPS = 30;
 
@@ -284,6 +296,23 @@ width: 33%;
 
         }
     }
+
+    function startTouch(evt) {
+        evt.preventDefault();
+    }
+    function getTouchPos(evt) {
+        evt.preventDefault();
+        let touches = evt.changedTouches;
+        let rect = canvas.getBoundingClientRect(); // abs. size of element
+            //scaleX = canvas.width / rect.width,    // relationship bitmap vs. element for X
+            scaleY = canvas.height / rect.height;  // relationship bitmap vs. element for Y
+
+        // x: (evt.clientX - rect.left) * scaleX,   // scale mouse coordinates after they have
+        paddle1Y = (touches[0].pageY - rect.top) * scaleY;     // been adjusted to be relative to element
+
+
+    }
 </script>
+
 </body>
 </html>
