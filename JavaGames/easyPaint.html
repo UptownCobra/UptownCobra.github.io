@@ -75,6 +75,22 @@
                 p++;
                 let content = document.createElement('div');
                 content.classList.add('box');
+               content.addEventListener("touchstart", function(evt) {
+                   evt.preventDefault();
+                   content.style.backgroundColor = color;
+                   console.log("TouchStart")
+                }, false);
+                content.addEventListener("touchmove", function(evt) {
+                    evt.preventDefault();
+                    content.style.backgroundColor = color;
+                    console.log("Touch Move");
+
+                }, false);
+                content.addEventListener("touchend", function(evt) {
+
+                  console.log("TouchEnd")
+                }, false);
+
                 content.addEventListener('mousedown',  function() {
                     isDown = true;
                     content.style.backgroundColor = color;
@@ -106,7 +122,6 @@
         color = document.forms[0].brushColor.value;
         console.log(color);
     }
-
 
 </script>
 </html>

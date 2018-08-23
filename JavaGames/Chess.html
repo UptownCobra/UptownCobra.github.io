@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Chess Game</title>
+</head>
+<style>
+    #wrapper {
+        width: 80%;
+        position: relative;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    #gameBoard {
+        border: solid;
+    }
+</style>
+<body>
+<div id="wrapper">
+    <canvas id="gameBoard"></canvas>
+</div>
+</body>
+<script>
+    window.onload = function() {
+        let wrapper = document.querySelector("#wrapper");
+        let gameBoard = document.querySelector("#gameBoard");
+        let side = wrapper.clientWidth;
+        console.log(side);
+        wrapper.style.height = side.toString() + "px";
+        wrapper.style.width = side.toString() + "px";
+        gameBoard.style.height = side.toString() + "px";
+        gameBoard.style.width = side.toString() + "px";
+    }
+</script>
+</html>
