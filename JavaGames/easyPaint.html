@@ -81,14 +81,16 @@
                    console.log("TouchStart")
                 }, false);
                 content.addEventListener("touchmove", function(evt) {
-                    evt.preventDefault();
+                    //evt.preventDefault();
                     content.style.backgroundColor = color;
                     console.log("Touch Move");
 
-                }, false);
+                }, true);
                 content.addEventListener("touchend", function(evt) {
+                    evt.preventDefault();
+                    content.style.backgroundColor = color;
 
-                  console.log("TouchEnd")
+                    console.log("TouchEnd")
                 }, false);
 
                 content.addEventListener('mousedown',  function() {

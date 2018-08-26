@@ -2,107 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117debfd-c46c-48d9-beb0-3273f1adf660" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resume/images/Me.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resume/CSS/Main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resume/Home.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter14/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek/askvet.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/askvet.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/fishcreek.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/fishcreek/askthevet.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/fishcreek/bigfish.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/fishcreek/contact.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/fishcreek/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/fishcreek/fishcreeklogo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/fishcreek/gradientblue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/fishcreek/home.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/fishcreek/lilfish.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/fishcreek/services.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/media/sparky.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/media/sparky.m4v" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/media/sparky.mov" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/media/sparky.ogv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/media/sparky.webm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek11/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek4/askvet.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek4/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek4/fishcreek.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek4/fishcreek/askthevet.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek4/fishcreek/contact.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek4/fishcreek/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek4/fishcreek/fishcreeklogo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek4/fishcreek/home.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek4/fishcreek/services.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek4/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek4/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek6/askvet.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek6/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek6/fishcreek.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek6/fishcreek/askthevet.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek6/fishcreek/bigfish.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek6/fishcreek/contact.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek6/fishcreek/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek6/fishcreek/fishcreeklogo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek6/fishcreek/gradientblue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek6/fishcreek/home.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek6/fishcreek/services.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek6/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek6/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek7/askvet.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek7/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek7/fishcreek.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek7/fishcreek/askthevet.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek7/fishcreek/bigfish.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek7/fishcreek/contact.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek7/fishcreek/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek7/fishcreek/fishcreeklogo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek7/fishcreek/gradientblue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek7/fishcreek/home.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek7/fishcreek/lilfish.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek7/fishcreek/services.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek7/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek7/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek8/askvet.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek8/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek8/fishcreek.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek8/fishcreek/askthevet.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek8/fishcreek/bigfish.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek8/fishcreek/contact.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek8/fishcreek/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek8/fishcreek/fishcreeklogo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek8/fishcreek/gradientblue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek8/fishcreek/home.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek8/fishcreek/lilfish.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek8/fishcreek/services.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek8/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek8/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek9/askvet.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek9/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek9/fishcreek.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek9/fishcreek/askthevet.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek9/fishcreek/bigfish.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek9/fishcreek/contact.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek9/fishcreek/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek9/fishcreek/fishcreeklogo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek9/fishcreek/gradientblue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek9/fishcreek/home.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek9/fishcreek/lilfish.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek9/fishcreek/services.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek9/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreek9/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreekcss/askvet.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreekcss/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreekcss/fishcreek.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreekcss/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fishcreekcss/services.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/secondPage.html" afterPath="$PROJECT_DIR$/JavaGames/Chess.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaGames/easyPaint.html" afterPath="$PROJECT_DIR$/JavaGames/easyPaint.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resume/Home.html" afterPath="$PROJECT_DIR$/Resume/Home.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -144,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Home.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resume/Home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            <state relative-caret-position="578">
+              <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -160,6 +61,16 @@
         <entry file="file://$PROJECT_DIR$/Resume/images/favicon.ico">
           <provider selected="true" editor-type-id="images">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="easyPaint.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaGames/easyPaint.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -269,11 +180,11 @@
         <option value="$PROJECT_DIR$/Resume/index.html" />
         <option value="$PROJECT_DIR$/JavaGames/Calculator.html" />
         <option value="$PROJECT_DIR$/JavaGames/Pong.html" />
-        <option value="$PROJECT_DIR$/JavaGames/easyPaint.html" />
         <option value="$PROJECT_DIR$/JavaGames/Chess.html" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/Resume/CSS/Main.css" />
         <option value="$PROJECT_DIR$/Resume/Home.html" />
+        <option value="$PROJECT_DIR$/JavaGames/easyPaint.html" />
       </list>
     </option>
   </component>
@@ -287,9 +198,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1500" />
-    <option name="height" value="1047" />
+    <option name="x" value="372" />
+    <option name="y" value="19" />
+    <option name="width" value="974" />
+    <option name="height" value="1008" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -315,6 +227,11 @@
             <path>
               <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaGames" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -424,18 +341,18 @@
       <workItem from="1534022004869" duration="16550000" />
       <workItem from="1534466898786" duration="14803000" />
       <workItem from="1534966788193" duration="1542000" />
-      <workItem from="1534982440933" duration="9165000" />
+      <workItem from="1534982440933" duration="10971000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163906000" />
+    <option name="totallyTimeSpent" value="165712000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1500" height="1047" extended-state="0" />
+    <frame x="372" y="19" width="974" height="1008" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12196766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18893528" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -735,14 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaGames/easyPaint.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1513">
-          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -848,11 +757,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Resume/Home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        <state relative-caret-position="578">
+          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaGames/easyPaint.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
