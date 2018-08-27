@@ -2,34 +2,117 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="CSS/Main.css">
     <link rel="shortcut icon" href="images/favicon.ico">
     <title>Home</title>
 </head>
+
 <body>
-<nav>
-    <div id="topNav">
-        <a href="#">Home</a>
-        <a href="#">Portfolio</a>
-        <a href="#">About Me</a>
-        <a href="#">Contact</a>
-        <a href="#">Resume</a>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">Caleb Logan</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+            <a class="nav-item nav-link active" href="#home">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link" href="#projects">Projects</a>
+            <a class="nav-item nav-link" href="#resume">Resume</a>
+            <a class="nav-item nav-link disabled" href="#">About Me</a>
+        </div>
     </div>
 </nav>
-<div id="container">
-    <div id="aboveTheFold">
-        <img src="images/Me.jpg" alt="Caleb Logan" style="width:100%;">
-        <div id="midLeft">
-            Hi I'm Caleb Logan,<br>
-                a passionate Programmer,<br>
-                Student, Husband,<br>
-                and Baker
+<div id="container" class="parallax-home">
+<div id="home"  style="height: 900px;">
+    <div class="jumbotron" id="home-box">
+        <div class="container">
+            <div>
+                <h2>Hello I'm Caleb Logan <br> And here's a little about me.</h2>
+            </div>
         </div>
     </div>
 </div>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</div>
+<div id="projects" class="background-general">
+    <div id="projects-text">
+    <h2>Here are some of the things I've been working on.</h2>
+    </div>
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <a href="../JavaGames/easyPaint.html"><img class="d-block w-100" src="images/PaintFixed.png" alt="First slide"></a>
+            </div>
+            <div class="carousel-item">
+                <a href="../JavaGames/Pong.html"><img class="d-block w-100" src="images/PongFixed.png" alt="Second slide"></a>
+            </div>
+            <div class="carousel-item">
+               <a href="../JavaGames/Calculator.html"> <img class="d-block w-100" src="images/Calculator.png" alt="Third slide"></a>
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+</div>
+<div class="parallax-resume">
+
+</div>
+<div id="resume" class="container background-general" >
+
+    <h1 style="text-align: center;">Here are my qualifications</h1>
+    <h4>These are the languages tha I currently Know</h4>
+    <div class="row">
+        <div class="col-4">
+            <ul>
+                <li>HTML</li>
+                <li>JavaScript</li>
+            </ul>
+        </div>
+        <div class="col-4">
+            <ul>
+                <li>C++</li>
+                <li>SQL</li>
+            </ul>
+        </div>
+        <div class="col-4">
+            <ul>
+                <li>Learning: Java</li>
+                <li>Learning: PHP</li>
+            </ul>
+        </div>
+    </div>
+    <h4>Current Work</h4>
+    <h4 style="text-align:center;">KCIT Apprentice at Cerner</h4>
+    <ul>
+        <li>Team subject matter expert in Eggplant Functional (SenseTalk Language)</li>
+        <li>Researched and developed team workflow using the scrum framework</li>
+        <li>Analyze test scripts and develop sprints</li>
+        <li>Automate workflows in PowerChart for user end testing</li>
+        <li>Create documentation for automation scripts</li>
+        <li>GitHub Admin in charge of quality control</li>
+        <li>Use SQL and Excel to automate monthly team metrics</li>
+    </ul>
+    <div class="row justify-content-center">
+        <div class="col-4">
+    <form method="get" action="Files/Caleb_Logan_Resume.pdf">
+        <button type="submit" class="btn btn-link">Download Resume</button>
+    </form>
+        </div>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 </body>
 </html>

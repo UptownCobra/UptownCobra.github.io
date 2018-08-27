@@ -1,49 +1,51 @@
-* {
-    background-color: #f2f3ee;
+
+
+.parallax-home {
+    background-image: url("../images/Me.jpg");
+    height: 900px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .6;
 }
-#aboveTheFold {
-    width:90%;
-    margin-left: auto;
+#projects {
+width:80%;
     margin-right: auto;
-    max-width: 1371px;
-    max-height: 914px;
-    position: relative;
-    text-align: left;
-    font-size: 30px;
-    color: #f2f3ee;
-    font-family: sans-serif;
-    }
-#midLeft {
-    position: absolute;
-    top: 43%;
-    left: 5%;
-    background: transparent;
+    margin-left: auto;
+    max-width: 935px;
 }
 
-#topNav {
-    width:90%;
-    display:inline-flex;
-    text-align: center;
-
-    margin-right: 5%;
-    margin-left: 5%;
-    background-color: transparent;
-}
-nav {
-
-    background-color: #5d683e;
+#projects img {
     width:100%;
-    padding-top: 10px;
-    height:40px;
-    font-size: 30px;
+    height: 100%;
+    max-height:900px;
+
 }
-nav a {
-    width:20%;
-    background-color: transparent;
-    color: #f2f3ee;
-    text-decoration: none;
+
+#home-box {
+    height: 900px; /* These two lines are counted as one :-)       */
+
+    display: flex;
+    align-items: center;
+
+    background: transparent;
+    color:white;
 }
-nav a:hover {
-    text-decoration: underline;
-    color: #f2d9a6;
+
+#projects-text {
+    text-align: center;
+    color: black;
+}
+.parallax-resume {
+    background-image: url("../images/forest.jpg");
+    height: 200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .6;
+}
+.background-general {
+    background-color: ghostwhite;
 }

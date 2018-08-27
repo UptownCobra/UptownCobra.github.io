@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117debfd-c46c-48d9-beb0-3273f1adf660" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaGames/easyPaint.html" afterPath="$PROJECT_DIR$/JavaGames/easyPaint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resume/images/Calculator.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resume/images/PaintFixed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resume/images/PongFixed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resume/images/forest.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resume/CSS/Main.css" afterPath="$PROJECT_DIR$/Resume/CSS/Main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resume/Home.html" afterPath="$PROJECT_DIR$/Resume/Home.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,24 +40,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="Home.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Resume/Home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="566">
+              <caret line="105" column="35" lean-forward="false" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#h4#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resume/Home.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resume/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -64,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="easyPaint.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="easyPaint.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaGames/easyPaint.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+              <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -77,10 +85,17 @@
       <file leaf-file-name="Main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resume/CSS/Main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" column="19" lean-forward="false" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+            <state relative-caret-position="816">
+              <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PaintFixed.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resume/images/PaintFixed.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -88,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/learntobake/About.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="56" />
+              <caret line="8" column="56" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -182,9 +197,9 @@
         <option value="$PROJECT_DIR$/JavaGames/Pong.html" />
         <option value="$PROJECT_DIR$/JavaGames/Chess.html" />
         <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/JavaGames/easyPaint.html" />
         <option value="$PROJECT_DIR$/Resume/CSS/Main.css" />
         <option value="$PROJECT_DIR$/Resume/Home.html" />
-        <option value="$PROJECT_DIR$/JavaGames/easyPaint.html" />
       </list>
     </option>
   </component>
@@ -198,10 +213,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="372" />
-    <option name="y" value="19" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
-    <option name="height" value="1008" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -253,6 +267,19 @@
               <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="Resume" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-4.0.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="Resume" type="462c0819:PsiDirectoryNode" />
+              <item name="Files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="Resume" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -282,11 +309,11 @@
       <recent name="C:\Users\CL055729\Desktop\School\Github\UptownCobra.github.io\learntobake\Recipes\Bread" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CL055729\Desktop\School\Github\UptownCobra.github.io\Resume\images" />
       <recent name="C:\Users\CL055729\Desktop\School\Github\UptownCobra.github.io\learntobake\Images" />
       <recent name="C:\Users\CL055729\Desktop\School\Github\UptownCobra.github.io\fishcreek11\media" />
       <recent name="C:\Users\CL055729\Desktop\School\Github\UptownCobra.github.io\fishcreek11" />
       <recent name="C:\Users\CL055729\Desktop\School\Github\UptownCobra.github.io\fishcreek9" />
-      <recent name="C:\Users\CL055729\Desktop\School\Github\UptownCobra.github.io\fishcreek8" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -341,18 +368,18 @@
       <workItem from="1534022004869" duration="16550000" />
       <workItem from="1534466898786" duration="14803000" />
       <workItem from="1534966788193" duration="1542000" />
-      <workItem from="1534982440933" duration="10971000" />
+      <workItem from="1534982440933" duration="26990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165712000" />
+    <option name="totallyTimeSpent" value="181731000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="372" y="19" width="974" height="1008" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18893528" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27139875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -401,20 +428,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fishcreek8/askvet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fishcreek8/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fishcreek6/fishcreek.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -618,14 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resume/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fishcreek11/fishcreek.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
@@ -695,11 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resume/images/Me.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaGames/Calculator.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -724,18 +724,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resume/CSS/Main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="19" lean-forward="false" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learntobake/About.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="56" />
+          <caret line="8" column="56" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="56" />
           <folding />
         </state>
       </provider>
@@ -755,21 +747,55 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resume/Home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaGames/easyPaint.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resume/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resume/images/Me.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resume/images/Pong.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resume/images/PaintFixed.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resume/CSS/Main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resume/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="105" column="35" lean-forward="false" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h4#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
