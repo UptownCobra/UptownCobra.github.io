@@ -2,139 +2,310 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117debfd-c46c-48d9-beb0-3273f1adf660" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/about/brand.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/about/license.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/about/overview.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/about/translations.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/browser-bugs.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/alerts.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/badge.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/breadcrumb.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/button-group.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/buttons.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/card.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/carousel.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/collapse.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/dropdowns.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/forms.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/input-group.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/jumbotron.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/list-group.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/modal.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/navbar.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/navs.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/pagination.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/popovers.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/progress.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/scrollspy.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/components/tooltips.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/content/code.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/content/figures.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/content/images.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/content/reboot.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/content/tables.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/content/typography.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/.eslintrc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/.stylelintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/album/album.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/album/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/blog/blog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/blog/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/carousel/carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/carousel/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/checkout/form-validation.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/checkout/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/cover/cover.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/cover/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/dashboard/dashboard.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/dashboard/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/floating-labels/floating-labels.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/floating-labels/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/grid/grid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/grid/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/jumbotron/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/jumbotron/jumbotron.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/navbar-bottom/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/navbar-fixed/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/navbar-fixed/navbar-top-fixed.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/navbar-static/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/navbar-static/navbar-top.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/navbars/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/navbars/navbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/offcanvas/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/offcanvas/offcanvas.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/offcanvas/offcanvas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/pricing/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/pricing/pricing.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/product/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/product/product.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/album.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/blog.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/carousel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/checkout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/cover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/dashboard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/floating-labels.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/grid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/jumbotron.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbar-bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbar-fixed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbar-static.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbars.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/offcanvas.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/pricing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/product.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/sign-in.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/starter-template.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/sticky-footer-navbar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/screenshots/sticky-footer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/sign-in/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/sign-in/signin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/starter-template/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/starter-template/starter-template.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/sticky-footer-navbar/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/sticky-footer/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/sticky-footer/sticky-footer.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/tooltip-viewport/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/tooltip-viewport/tooltip-viewport.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/tooltip-viewport/tooltip-viewport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/extend/approach.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/extend/icons.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/extend/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/getting-started/accessibility.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/getting-started/best-practices.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/getting-started/browsers-devices.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/getting-started/build-tools.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/getting-started/contents.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/getting-started/download.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/getting-started/introduction.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/getting-started/javascript.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/getting-started/theming.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/getting-started/webpack.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/layout/grid.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/layout/media-object.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/layout/overview.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/layout/utilities-for-layout.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/migration.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/borders.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/clearfix.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/close-icon.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/colors.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/display.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/embed.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/flex.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/float.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/image-replacement.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/position.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/screenreaders.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/sizing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/spacing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/text.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/vertical-align.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/utilities/visibility.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/.babelrc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/.eslintrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/.github/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/.github/ISSUE_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/.stylelintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/.stylelintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/CNAME" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/CODE_OF_CONDUCT.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_data/breakpoints.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_data/browser-bugs.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_data/browser-features.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_data/colors.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_data/examples.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_data/grays.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_data/nav.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_data/theme-colors.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_data/translations.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/ads.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/callout-danger-async-methods.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/callout-info-mediaqueries-breakpoints.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/callout-warning-color-assistive-technologies.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/docs-navbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/docs-sidebar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/favicons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/icons/bootstrap.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/icons/download.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/icons/github.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/icons/import.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/icons/lightning.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/icons/menu.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/icons/slack.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/icons/twitter.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_includes/social.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_layouts/default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_layouts/docs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_layouts/examples.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_layouts/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_layouts/redirect.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_layouts/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_plugins/bugify.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_plugins/callout.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_plugins/example.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/_plugins/markdown-block.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/brand/bootstrap-outline.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/brand/bootstrap-punchout.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/brand/bootstrap-social-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/brand/bootstrap-social.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/brand/bootstrap-solid.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/css/docs.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/css/docs.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/img/bootstrap-stack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/img/bootstrap-themes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/img/favicons/android-chrome-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/img/favicons/android-chrome-512x512.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/img/favicons/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/img/favicons/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/img/favicons/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/img/favicons/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/img/favicons/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/img/favicons/mstile-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/img/favicons/mstile-150x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/img/favicons/mstile-310x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/img/favicons/mstile-310x310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/img/favicons/mstile-70x70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/img/favicons/safari-pinned-tab.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/js/.eslintrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/js/docs.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/js/src/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/js/src/ie-emulation-modes-warning.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/js/src/pwa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/js/vendor/anchor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/js/vendor/clipboard.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/js/vendor/holder.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/js/vendor/jquery-slim.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/js/vendor/popper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_ads.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_algolia.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_anchor.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_brand.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_browser-bugs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_callouts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_clipboard-js.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_colors.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_component-examples.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_content.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_examples.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_masthead.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_nav.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_sidebar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_skiplink.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_syntax.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/assets/scss/docs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/build/.eslintrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/build/.htmllintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/build/change-version.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/build/gcp-key.json.enc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/build/generate-sri.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/build/lint-vars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/build/postcss.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/build/rollup.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/build/sauce_browsers.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/build/saucelabs-unit-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/build/ship.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/build/upload-preview.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/build/vnu-jar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/build/workbox.config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/build/workbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/css/bootstrap-grid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/css/bootstrap-grid.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/css/bootstrap-grid.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/css/bootstrap-grid.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/css/bootstrap-reboot.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/css/bootstrap-reboot.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/css/bootstrap-reboot.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/css/bootstrap-reboot.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/js/bootstrap.bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/js/bootstrap.bundle.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/js/bootstrap.bundle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/js/bootstrap.bundle.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/js/bootstrap.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/dist/js/bootstrap.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/alert.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/button.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/carousel.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/collapse.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/dropdown.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/index.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/modal.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/popover.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/scrollspy.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/tab.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/tooltip.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/dist/util.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/src/alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/src/button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/src/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/src/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/src/dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/src/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/src/popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/src/scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/src/tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/src/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/src/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/unit/.eslintrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/unit/alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/unit/button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/unit/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/unit/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/unit/dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/unit/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/unit/popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/unit/scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/unit/tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/unit/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/unit/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/vendor/jquery-1.9.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/vendor/qunit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/vendor/qunit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/visual/alert.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/visual/button.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/visual/carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/visual/collapse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/visual/dropdown.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/visual/modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/visual/popover.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/visual/scrollspy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/visual/tab.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/js/tests/visual/tooltip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/nuget/MyGet.ps1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/nuget/bootstrap.nuspec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/nuget/bootstrap.sass.nuspec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/package-lock.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/package.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/sache.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_alert.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_badge.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_breadcrumb.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_button-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_card.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_carousel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_close.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_code.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_custom-forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_dropdown.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_images.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_input-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_jumbotron.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_modal.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_nav.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_popover.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_print.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_progress.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_reboot.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_root.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_transitions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_type.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/bootstrap-grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/bootstrap-reboot.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_alert.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_background-variant.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_badge.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_border-radius.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_box-shadow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_breakpoints.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_caret.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_float.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_gradients.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_grid-framework.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_hover.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_image.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_lists.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_nav-divider.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_navbar-align.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_reset-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_resize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_size.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_table-row.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_text-emphasis.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_text-hide.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_text-truncate.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_transition.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/mixins/_visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/utilities/_align.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/utilities/_background.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/utilities/_borders.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/utilities/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/utilities/_display.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/utilities/_embed.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/utilities/_flex.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/utilities/_float.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/utilities/_position.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/utilities/_screenreaders.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/utilities/_sizing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/utilities/_spacing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/utilities/_text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/scss/utilities/_visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/sw.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resume/Home.html" afterPath="$PROJECT_DIR$/Resume/Home.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -148,29 +319,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Calculator.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaGames/Calculator.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="e#4719#4843#0" expanded="false" />
-                <element signature="e#5077#5202#0" expanded="false" />
-                <element signature="e#5632#5877#0" expanded="false" />
-                <element signature="e#5925#6169#0" expanded="false" />
-                <element signature="e#6217#6458#0" expanded="false" />
-                <element signature="e#6506#6750#0" expanded="false" />
-                <element signature="e#6928#6979#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resume/Home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="117" column="7" lean-forward="true" selection-start-line="117" selection-start-column="7" selection-end-line="117" selection-end-column="7" />
+            <state relative-caret-position="-1120">
+              <caret line="4" column="215" lean-forward="false" selection-start-line="4" selection-start-column="215" selection-end-line="4" selection-end-column="215" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -393,21 +546,6 @@
               <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="Resume" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-4.0.0" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="Resume" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-4.0.0" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-4.0.0" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UptownCobra.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UptownCobra.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="Resume" type="462c0819:PsiDirectoryNode" />
               <item name="Files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -502,12 +640,12 @@
       <workItem from="1534022004869" duration="16550000" />
       <workItem from="1534466898786" duration="14803000" />
       <workItem from="1534966788193" duration="1542000" />
-      <workItem from="1534982440933" duration="27292000" />
+      <workItem from="1534982440933" duration="27567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182033000" />
+    <option name="totallyTimeSpent" value="182308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -516,6 +654,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27139875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -527,7 +666,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -562,13 +700,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fishcreek6/fishcreek.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fishcreek9/fishcreek.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="776">
@@ -920,10 +1051,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Resume/CSS/bootstrap-4.0.0/bootstrap-4.0.0/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Resume/Home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="117" column="7" lean-forward="true" selection-start-line="117" selection-start-column="7" selection-end-line="117" selection-end-column="7" />
+        <state relative-caret-position="-1120">
+          <caret line="4" column="215" lean-forward="false" selection-start-line="4" selection-start-column="215" selection-end-line="4" selection-end-column="215" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
