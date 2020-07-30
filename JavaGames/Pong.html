@@ -95,6 +95,9 @@ width: 33%;
     let interval;
     let isPlaying;
     function playGame() {
+        if (isPlaying) {
+            clearInterval(interval);
+        }
         isPlaying = true;
         maxScore = document.forms[0].pointsTotal.value;
         playerName = document.forms[0].name.value;
